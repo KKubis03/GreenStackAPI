@@ -22,3 +22,4 @@ TestResults/
 _ReSharper.*
 *.DotSettings.user
 *.DotSettings
+*.vs
