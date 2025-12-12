@@ -1,5 +1,24 @@
-﻿# .NET
+﻿# ---------------------------
+# .NET / C#
+# ---------------------------
 bin/
 obj/
-*.user
-*.suo
+out/
+*.exe
+*.dll
+*.pdb
+*.app
+*.mdb
+*.ilk
+*.log
+*.vsix
+*.nupkg
+*.nuspec
+*.userosscache
+*.sln.docstates
+TestResults/
+*.dotCover
+*.vsmdi
+_ReSharper.*
+*.DotSettings.user
+*.DotSettings
