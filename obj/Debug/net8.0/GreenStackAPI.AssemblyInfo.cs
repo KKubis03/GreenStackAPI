@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenStackAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+217d1d505499bae1777cf0df2738d588269aaad5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cffc6872d10b7383363832049cc5fcad9859d167")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenStackAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenStackAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
